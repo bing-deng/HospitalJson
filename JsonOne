@@ -1,0 +1,19 @@
+{
+    "title": "体检结果展现",
+    "QSection": {
+        "subTitle": "体检列表",
+        "list": [
+            {
+                "type": "QEntryElement",
+                "title": "血型",
+                "Placeholder": "A",
+                "key": "entryElement"
+            },
+            {
+                "type": "QBooleanElement",
+                "title": "病史",
+                "value": true
+            }
+        ]
+    }
+}

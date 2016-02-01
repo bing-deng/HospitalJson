@@ -16,7 +16,7 @@
             },
             {
             	"type":"QButtonElement",
-            	"title": "提交病例",
+            	"title": "提交病例按钮",
             },
             {
             	"type":"QTextElement",
